@@ -1,0 +1,18 @@
+{
+  "ice-creams": [
+    {
+      "id": 1,
+      "clientName": "João",
+      "sellerName": "Maria",
+      "flavor": "Morango",
+      "value": 5.99
+    },
+    {
+      "clientName": "Cliente",
+      "sellerName": "Vendedor",
+      "flavor": "Chocolate",
+      "value": 3,
+      "id": 4
+    }
+  ]
+}
